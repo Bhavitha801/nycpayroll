@@ -1,0 +1,9 @@
+{
+	"name": "bhavithadatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc83c9c6-c822-4663-8609-ad22c705acda",
+		"tenantId": "88933416-63dc-4024-bb3d-63ab14dcda4e"
+	}
+}
